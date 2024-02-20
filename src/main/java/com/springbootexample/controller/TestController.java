@@ -1,4 +1,4 @@
-package com.integrationninjas.springbootexample.controller;
+package com.springbootexample.controller;
 
 import java.util.HashMap;
 import java.util.Map;
